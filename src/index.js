@@ -9,8 +9,8 @@ ReactDOM.render( <
   s3serviceName = "aws_s3_siga_files"
   StitchServiceName = "mongodb-atlas"
   // TEST
-  appId="sigaapptest-gucyv"
-  db="test"
+  //appId="sigaapptest-gucyv"
+  //db="test"
 
   // A
   // appId = "sigaapp-a-trruz"
@@ -19,6 +19,10 @@ ReactDOM.render( <
   // B
   // appId="sigaapp-b-cyuju"
   // db="siga-b"
+  
+  // V1.5
+  appId= "sigaapptest1-5-lddsu"
+  db = "test"
   /
   >
   ,
